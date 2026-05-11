@@ -1,4 +1,4 @@
-
+As part of assignment for my MSBA program at the University of Virginia, I conducted a survival analysis study focused on predicting the time until cancer recurrence in breast cancer patients so that hospitals can be prepared to provide the necessary care.
 
 # Breast Cancer Relapse Prediction
 
